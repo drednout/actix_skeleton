@@ -1,0 +1,11 @@
+[package]
+name = "actix-skeleton"
+version = "0.1.0"
+authors = ["Aleksei Romanov <drednout.by@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "1.0.3"
+
+json = "*"
+futures = "0.1"
